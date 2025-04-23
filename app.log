@@ -1,0 +1,6 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/addSchools\",\"status\":\"404\",\"responseTime\":\"23.912\"}","timestamp":"2025-04-23T11:17:29.081Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/addSchool\",\"status\":\"500\",\"responseTime\":\"59.581\"}","timestamp":"2025-04-23T11:17:58.313Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/addSchool\",\"status\":\"201\",\"responseTime\":\"215.406\"}","timestamp":"2025-04-23T11:18:56.279Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/addSchool\",\"status\":\"201\",\"responseTime\":\"59.685\"}","timestamp":"2025-04-23T13:16:08.268Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/listSchools?latitude=28.6139&longitude=77.2090\",\"status\":\"404\",\"responseTime\":\"10.026\"}","timestamp":"2025-04-23T13:19:11.395Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/listSchools?latitude=28.6139&longitude=77.2090\",\"status\":\"200\",\"responseTime\":\"54.117\"}","timestamp":"2025-04-23T13:20:34.564Z"}
